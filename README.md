@@ -1,0 +1,1 @@
+# GoBarber before TypeScript
